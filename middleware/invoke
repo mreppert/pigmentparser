@@ -1,2 +1,2 @@
 #!/bin/sh
-/usr/bin/invoke_app -C "start_jupyter" -T @tool pigmentparser.ipynb" -u anaconda-5_31
+/usr/bin/invoke_app -C "start_jupyter" -T @tool parser.ipynb" -u anaconda-6
